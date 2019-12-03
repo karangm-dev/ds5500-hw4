@@ -43,7 +43,7 @@ A common problem with purely data-driven solutions is that they can inadvertentl
 
 [logo_2]: https://github.com/karangm-dev/ds5500-hw4/blob/master/output/2.png "Fig: Race Proportions for Budget vs No Budget Cut"
 
-You can clearly observe race - BL_Proportion proportion budget cut is significantly higher in the districts that received budget cuts and for other races like WH - there are observable differences.
+You can clearly observe race - BL_Proportion proportion is significantly higher in the districts that received budget cuts. Looks like solution incorporated bias.
 
 
 ### Problem 3
@@ -57,7 +57,7 @@ hidden biases, or manage to avoid them?
 
 [logo_3]: https://github.com/karangm-dev/ds5500-hw4/blob/master/output/3.png "Fig: Distribution of Disability for Budget Cut vs No Budget cut"
 
-The proportion distribution for budget cut districts and no budget cut districts seems to be very close to each other.
+The proportion disability distribution for budget cut districts and no budget cut districts seems to be very close to each other. Very negligible bias.
 
 ### Problem 4
 
